@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Farsi React App to convert speech to text
+Farsi React App to convert speech to text.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
